@@ -16,7 +16,7 @@
 <a href="https://twitter.com/wrm244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wrm244" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20699014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20699014" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wrm244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wrm244" height="30" width="40" /></a>
-<a href="/https://wrm244.gxist.cn/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wrm244.gxist.cn/atom.xml" height="30" width="40" /></a>
+<a href="https://wrm244.gxist.cn/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wrm244.gxist.cn/atom.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
